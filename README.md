@@ -1,5 +1,5 @@
-# project
-I am working on the Defender C project for my 3rd term coursework.
+# Defender
+I am working on the Defender C project for my 3rd term  (2020).
 I've now fully implemented the main mechanics of the game (scrolling, acceleration, alien AI, mutant aliens, astronauts, collisions, shooting, etc).
 
 In order to execute the project follow the instructions below:
